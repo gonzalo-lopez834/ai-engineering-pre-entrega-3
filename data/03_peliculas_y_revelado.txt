@@ -1,0 +1,41 @@
+PELÍCULAS Y REVELADO
+
+Formatos de película
+
+El formato más común es la película de 35 mm, también llamada 135, que se vende en cartuchos metálicos con 24 o 36 exposiciones. El formato medio usa película 120, enrollada junto a un papel protector, con la que se obtienen negativos de 6x4.5, 6x6, 6x7 o 6x9 cm. El gran formato usa hojas individuales de 4x5 pulgadas o mayores, que se cargan en chasis especiales.
+
+Película negativa de color
+
+La película negativa de color produce un negativo con los colores e intensidades invertidos, que luego se escanea o se copia sobre papel. Se revela con el proceso químico C-41. Es la más tolerante con los errores de exposición, sobre todo con la sobreexposición: un rollo expuesto uno o dos pasos de más suele dar resultados aceptables. Algunas películas conocidas son la Kodak Portra 400, apreciada por sus tonos de piel suaves y su bajo contraste, la Kodak Gold 200, de colores cálidos y precio accesible, y la Kodak Ektar 100, de grano muy fino y colores muy saturados.
+
+Película de diapositiva
+
+La película de diapositiva, o reversible, produce una imagen positiva directamente sobre la película. Se revela con el proceso E-6. Tiene muy poco margen de error en la exposición, por lo que requiere medir la luz con cuidado. A cambio ofrece colores vibrantes y mucha pegada. Un ejemplo clásico es la Fujifilm Velvia 50, famosa por su saturación en fotografía de paisaje.
+
+Película en blanco y negro
+
+La película en blanco y negro se puede revelar fácilmente en casa. Algunas de las más usadas son la Ilford HP5 Plus 400, versátil y con buen rango tonal, la Kodak Tri-X 400, de grano marcado y mucho carácter, muy usada en fotografía de calle y reportaje, y la Ilford FP4 Plus 125, de grano más fino para condiciones de buena luz. Entre los reveladores comunes están el Kodak D-76 y el HC-110.
+
+Película especial
+
+La Cinestill 800T es una película de color balanceada para luz de tungsteno, con una temperatura de color de unos 3200 K. Bajo luz artificial cálida los colores se ven neutros, mientras que a la luz del día se ven azulados, a menos que se use un filtro de corrección. Las luces brillantes de noche suelen mostrar un halo rojizo característico.
+
+El revelado en blanco y negro paso a paso
+
+Para revelar un rollo en casa se necesita un tanque de revelado con su carrete, un termómetro, los químicos y una bolsa de cambio o un cuarto completamente oscuro. El carrete se carga en oscuridad total, porque cualquier luz arruinaría la película todavía sensible. Los pasos son los siguientes. Primero se vierte el revelador durante el tiempo indicado por el fabricante, agitando con suavidad a intervalos regulares. Segundo, se usa el baño de paro, que detiene la acción del revelador. Tercero, se aplica el fijador, que elimina los haluros de plata que no se expusieron y hace permanente la imagen. Cuarto, se lava la película con agua durante varios minutos. Quinto, se utiliza un agente humectante para evitar manchas al secar. Por último se cuelga el negativo a secar en un lugar sin polvo. La temperatura estándar de trabajo en blanco y negro es 20 °C.
+
+El revelado en color
+
+El proceso C-41 exige una temperatura mucho más alta y precisa, alrededor de 38 °C, y tiempos más cortos y exactos. Por eso mucha gente prefiere llevar los rollos de color a un laboratorio, y revela en casa solo los de blanco y negro. Existen kits caseros de C-41 que funcionan bien si se controla la temperatura con un baño de agua.
+
+Escaneo o ampliación
+
+Una vez revelados, los negativos pueden escanearse con un escáner de película o fotografiarse con una cámara digital sobre una mesa de luz. También pueden ampliarse sobre papel fotográfico en un cuarto oscuro usando una ampliadora, un proceso que permite controlar contraste, recortes y zonas más claras u oscuras con técnicas como el quemado y el esquivado.
+
+Subexponer y sobreexponer a propósito
+
+Es posible indicarle al laboratorio que revele la película con un tiempo distinto. El empuje (push) consiste en exponer la película a un ISO mayor que el nominal, por ejemplo una de 400 a 800, y compensar con un revelado más largo. Esto permite fotografiar con poca luz a costa de más grano y contraste. La tracción (pull) es lo contrario y reduce el contraste.
+
+Almacenamiento y conservación
+
+La película sin exponer debe guardarse en un lugar fresco, e idealmente en la heladera, y debe respetarse su fecha de vencimiento. Con el tiempo pierde sensibilidad y se altera el color. Después de exponer un rollo conviene revelarlo cuanto antes. Los controles de seguridad de los aeropuertos con escáneres de rayos X pueden velar las películas de ISO alto, y los escáneres de tomografía modernos son aún más agresivos, por lo que se recomienda pedir una inspección manual.

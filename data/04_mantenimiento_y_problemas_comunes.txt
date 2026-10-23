@@ -1,0 +1,39 @@
+MANTENIMIENTO Y PROBLEMAS COMUNES DE LAS CÁMARAS ANALÓGICAS
+
+Qué revisar al comprar una cámara usada
+
+Antes de comprar una cámara analógica usada conviene hacer una revisión básica. Primero se prueba el obturador: se dispara en todas las velocidades y se escucha si el sonido es regular. Las velocidades lentas, de 1 segundo a 1/15, son las primeras en fallar si el mecanismo está pegajoso por aceite viejo. Si el obturador tarda de más o se traba en las velocidades lentas, la cámara necesita servicio.
+
+Segundo, se mira a través del objetivo con una luz brillante. Hay que buscar hongos, que aparecen como filamentos o manchas ramificadas, niebla interna, rayones profundos y burbujas o separación en el pegamento entre elementos ópticos. Un poco de polvo interno es normal y no afecta a las fotos. Tercero, se prueba el diafragma: debe cerrarse rápido y sin rastros de aceite sobre las láminas. Cuarto, se verifica que el fotómetro responda al cambiar la luz. Muchas cámaras viejas tienen el fotómetro desajustado por la edad, y aunque la cámara siga funcionando, las lecturas pueden estar equivocadas.
+
+Los sellos de espuma
+
+Muchas cámaras fabricadas entre los años 70 y 90 usan tiras de espuma para sellar la luz en la tapa trasera y en la zona del espejo. Con el paso del tiempo esa espuma se degrada, se pone pegajosa y se desintegra. Cuando esto ocurre entra luz al interior de la cámara y aparecen manchas rojizas o anaranjadas en los bordes de las fotos, llamadas fugas de luz. El problema se soluciona reemplazando los sellos, un trabajo que puede hacer un técnico o una persona con paciencia y los materiales adecuados.
+
+Las pilas
+
+Algunas cámaras antiguas usaban pilas de mercurio PX625, que dejaron de fabricarse por razones ambientales. Estas pilas mantenían un voltaje muy estable, algo importante para el fotómetro. Hoy se reemplazan por pilas de zinc-aire, que duran poco, o por adaptadores y pilas de otros tipos con un diodo que corrige el voltaje. Las cámaras totalmente mecánicas siguen disparando sin pila, y solo se pierde el fotómetro.
+
+Limpieza básica
+
+Para limpiar un objetivo se debe usar primero un soplador de aire para quitar el polvo, luego un pincel suave y finalmente un paño de microfibra con unas gotas de líquido especial para lentes. Nunca se debe soplar con la boca, porque se depositan gotitas de saliva, y no hay que usar la ropa para limpiar el vidrio. El interior de la cámara no debe tocarse ni limpiarse con trapos. El espejo y las cortinillas del obturador son muy delicados y se dañan fácilmente.
+
+Cómo guardar una cámara
+
+Las cámaras se guardan mejor en un lugar seco y ventilado, con sílica gel en el estuche si la humedad es alta. Los hongos en los objetivos se desarrollan con humedad relativa superior al 60 por ciento. Conviene sacar las pilas si la cámara no se va a usar durante mucho tiempo, para evitar que se derramen y corroan los contactos. También es recomendable disparar el obturador de vez en cuando para que los mecanismos no se endurezcan.
+
+Servicio técnico
+
+Un servicio completo se conoce como CLA, por las palabras en inglés clean, lubricate, adjust (limpiar, lubricar, ajustar). El técnico desarma la cámara, quita el aceite viejo, lubrica las partes necesarias y calibra el obturador y el fotómetro. Es la solución habitual para cámaras con velocidades lentas defectuosas o fotómetros inexactos.
+
+Problemas frecuentes al usar la cámara
+
+Si el rollo no avanza, lo más probable es que no se haya enganchado bien en el carrete receptor. Una forma de comprobarlo es mirar la palanca o la perilla de rebobinado: debe girar cuando se avanza la película. Si no gira, la película no está avanzando.
+
+Si todas las fotos salen negras o transparentes, puede ser que el obturador no abra o que se haya revelado mal el rollo. Si salen demasiado oscuras, la causa puede ser un fotómetro desajustado, una pila agotada o una película usada con un ISO mal configurado. Si las fotos salen veladas con zonas muy claras, probablemente se abrió la cámara con la película dentro antes de rebobinarla o hay una fuga de luz.
+
+Antes de abrir la tapa trasera de una cámara con película cargada hay que rebobinar el rollo por completo dentro del cartucho. Se acciona la palanca de liberación del avance y se gira la manivela de rebobinado hasta sentir que la tensión desaparece. Abrir la cámara antes de rebobinar expone y arruina las fotos.
+
+Fotos desenfocadas
+
+Las fotos movidas suelen deberse a usar una velocidad de obturación demasiado lenta. Una regla práctica es no bajar de una velocidad igual a la inversa de la distancia focal: con un objetivo de 50 mm conviene no disparar a menos de 1/60 sin trípode. Las fotos con foco incorrecto pueden indicar que el telémetro o el vidrio esmerilado necesitan ajuste.

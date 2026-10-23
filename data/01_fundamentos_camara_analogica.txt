@@ -1,0 +1,41 @@
+FUNDAMENTOS DE LA CÁMARA ANALÓGICA
+
+Qué es una cámara analógica
+
+Una cámara analógica captura imágenes sobre una película fotosensible en lugar de usar un sensor digital. La película contiene cristales de haluro de plata suspendidos en una emulsión de gelatina. Cuando la luz golpea esos cristales se produce un cambio químico invisible llamado imagen latente. Esa imagen recién se vuelve visible durante el revelado, un proceso químico posterior que se hace fuera de la cámara. Por eso en la fotografía analógica no se puede ver el resultado en el momento de disparar: hay que esperar a revelar el rollo.
+
+Partes principales
+
+Toda cámara analógica tiene un cuerpo hermético a la luz, un objetivo (lente), un diafragma, un obturador, un visor y un mecanismo para avanzar la película. Muchas cámaras de los años 70 en adelante incorporan además un fotómetro, que mide la luz de la escena y ayuda a elegir la exposición. Las cámaras más antiguas no tienen fotómetro y el fotógrafo usa un fotómetro externo de mano o calcula la exposición a ojo.
+
+El obturador
+
+El obturador controla durante cuánto tiempo llega la luz a la película. Se mide en fracciones de segundo. Las velocidades típicas son 1/1000, 1/500, 1/250, 1/125, 1/60, 1/30, 1/15, 1/8, 1/4, 1/2 y 1 segundo, además de la posición B (bulb), que mantiene el obturador abierto mientras se mantiene presionado el botón. Cada paso de velocidad duplica o reduce a la mitad la cantidad de luz. Una velocidad rápida, como 1/1000, congela el movimiento. Una velocidad lenta, como 1/15, deja pasar mucha luz pero registra el movimiento como una estela o provoca fotos movidas si la cámara no está apoyada.
+
+Existen dos tipos principales de obturador. El obturador de plano focal está justo delante de la película y usa dos cortinillas, de tela o de metal, que se desplazan una detrás de otra. Es el que usan la mayoría de las reflex de 35 mm. El obturador central está dentro del objetivo y se usa en muchas cámaras de formato medio y en cámaras compactas. El obturador central permite sincronizar el flash a cualquier velocidad, mientras que el de plano focal tiene una velocidad máxima de sincronización, normalmente 1/60 o 1/125 en cortinillas de tela y 1/250 en cortinillas de metal.
+
+El diafragma y la profundidad de campo
+
+El diafragma es un conjunto de láminas dentro del objetivo que forman un orificio de tamaño variable. Su apertura se expresa con números f: f/1.4, f/2, f/2.8, f/4, f/5.6, f/8, f/11 y f/16. Un número f bajo significa una apertura grande, que deja pasar más luz. Cada paso en esta escala duplica o reduce a la mitad la luz que llega a la película.
+
+La apertura también controla la profundidad de campo, que es la zona de la imagen que se ve nítida. Con una apertura grande, como f/1.8, solo una franja estrecha queda enfocada y el fondo se desenfoca, un efecto muy buscado en los retratos. Con una apertura pequeña, como f/16, casi toda la escena aparece nítida, algo útil en paisajes.
+
+La sensibilidad ISO
+
+La sensibilidad de la película se indica con el valor ISO, antiguamente llamado ASA. Los valores comunes son 100, 200, 400 y 800. A diferencia de una cámara digital, en una cámara analógica el ISO no se puede cambiar foto a foto: queda fijado por el rollo que se cargó. Una película de ISO bajo, como 100, tiene grano fino y mucho detalle pero necesita más luz. Una película de ISO alto, como 800, funciona mejor con poca luz pero muestra más grano.
+
+El triángulo de exposición
+
+La exposición correcta resulta del equilibrio entre tres elementos: la apertura, la velocidad de obturación y el ISO. Si se abre el diafragma un paso, se puede usar una velocidad un paso más rápida y obtener la misma exposición. Entender esta relación es la base de la fotografía manual.
+
+La regla Sunny 16
+
+Para fotografiar sin fotómetro se usa la regla Sunny 16. En un día soleado con sombras nítidas, se ajusta la apertura en f/16 y la velocidad de obturación al inverso del valor ISO. Por ejemplo, con una película de ISO 100 se usa f/16 a 1/100, o en la práctica 1/125. Con nubes ligeras se abre un paso, a f/11, con cielo nublado dos pasos, a f/8, y con cielo muy cubierto tres pasos, a f/5.6.
+
+El enfoque
+
+El enfoque es manual en la mayoría de las cámaras analógicas clásicas. En las reflex se gira el anillo del objetivo mientras se mira por el visor hasta que la imagen se ve nítida sobre el vidrio esmerilado, a veces ayudado por un microprisma o un telémetro de imagen partida. En las telemétricas se hace coincidir dos imágenes superpuestas en el centro del visor. Las compactas de los años 80 y 90 introdujeron el autofoco, y algunas cámaras de zona de enfoque solo permiten elegir entre distancias preestablecidas, como cerca, medio y lejos.
+
+Cantidad de fotos por rollo
+
+Un rollo de película de 35 mm suele ofrecer 24 o 36 exposiciones. Un rollo de formato medio 120 permite 12 fotos de 6x6 cm, 10 fotos de 6x7 cm u 8 fotos de 6x9 cm, según el formato de la cámara.
